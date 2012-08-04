@@ -12,4 +12,8 @@ public class SimpleControllerTests {
 		SimpleController controller = new SimpleController();
 		assertEquals("Hello world!", controller.simple());
 	}
+	public static void main(String agrs[]){
+		
+		System.out.println("111");
+	}
 }
