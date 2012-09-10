@@ -14,5 +14,11 @@ public class AjaxUtils {
 	}
 	
 	private AjaxUtils() {}
-
+	
+	//bdd add for a test in github
+	private String getAjaxInfo(){
+		String msg = "LEE and Ban";
+		return msg;
+		
+	}
 }
